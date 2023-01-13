@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duubudubuu&label=Profile%20views&color=0e75b6&style=flat" alt="duubudubuu" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Development Projects**
+- 🔭 I’m currently working on **Small dev Projects**
 
 - 🌱 I’m currently learning **HTML, CSS, and Javascript**
 
-- 💬 You can ask me about **former IT Organization and Anime**
+- 💬 You can ask me about **anything IT related, especially programming**
 
 - 📫 You can reach me by contacting my email and facebook, **lancemontiagueIT23@gmail.com and fb.gg/lancylotlot**
 
