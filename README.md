@@ -13,7 +13,7 @@
 
 - 💬 You can ask me about **programming especially web development, and email copywriting**
 
-- 📫 You can reach me by contacting my email and facebook, **lancemontiagueIT23@gmail.com and fb.gg/lancylotlot or @duubu.lm**
+- 📫 You can reach me by contacting my email and facebook, **lancemontiagueIT23@gmail.com and fb.gg/lancylotlot or @duubu.lm/lamontiague23@gmail.com for copywriting**
 
 - ⚡ Fun fact: **Former Pro Valorant Player, Radiant Rank. And I do copywriting**
 
